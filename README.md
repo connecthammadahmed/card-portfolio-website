@@ -6,9 +6,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-## Installing vCard
+## Installing Portfolio Website
 
-To install **vCard**, follow these steps:
+To install **Portfolio Website**, follow these steps:
 
 Linux and macOS:
 
